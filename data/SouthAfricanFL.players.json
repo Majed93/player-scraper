@@ -1,0 +1,18 @@
+[ {
+  "firstName" : "Brilliant",
+  "lastName" : "Khuzwayo",
+  "commonName" : "",
+  "rating" : 70,
+  "assetId" : 209874,
+  "position" : "GK",
+  "lowestBin" : 2000,
+  "searchPrice" : 1000,
+  "maxListPrice" : 0,
+  "minListPrice" : 0,
+  "nation" : 140,
+  "club" : 110930,
+  "league" : 347,
+  "customPrice" : false,
+  "priceSet" : false,
+  "bidAmount" : 0
+} ]
